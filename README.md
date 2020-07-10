@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I have been working as a Software Development Engineer for around 4 years and it's a great journey so far.
+    Developing windows applications using C#, .Net.
+    
+🌱 I'm also learning Flutter in the meantime.
+
+🤔 I also get my hands dirty on competitive coding sometimes.
+
+
 <!--
 **chirantar/chirantar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
