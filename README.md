@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-🔭 I have been working as a Software Development Engineer for around 4 years and it's a great journey so far.
-    Developing windows applications using C#, .Net.
+🔭 I have been working as a Software Development Engineer for around 5 years and it's a great journey so far.
     
-🌱 I'm also learning Flutter in the meantime.
-
-🤔 I also get my hands dirty on competitive coding sometimes.
+   Having experience in developing windows applications using C#, .Net, C++, QT, QML.
+    
+   After my stint as windows app developer I am now working as Cloud backend engineer using GCP, python, webapp2, flask, app-engine, google analytics, 
+   sql, no-sql, redis, memcache etc;
+   
+- 📫 You can reach me out on linkedin: https://www.linkedin.com/in/chirantar/
 
 
 <!--
