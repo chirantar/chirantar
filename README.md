@@ -1,26 +1,45 @@
-### Hi there 👋
+### Hey there! 👋
 
-🔭 I have been working as a Software Development Engineer for around 5 years and it's a great journey so far.
-    
-   Having experience in developing windows applications using C#, .Net, C++, QT, QML.
-    
-   After my stint as windows app developer I am now working as Cloud backend engineer using GCP, python, webapp2, flask, app-engine, google analytics, 
-   sql, no-sql, redis, memcache etc;
-   
-- 📫 You can reach me out on linkedin: https://www.linkedin.com/in/chirantar/
+- 👨‍💻 Senior Software Engineer with 7+ years of hands-on experience.
+- 🚀 Tech enthusiast passionate about crafting innovative solutions.
+- 🌐 Expertise in Backend Engineering, Distributed Systems, and Cloud Technologies.
 
+#### 🛠️ Tech Toolbox
 
-<!--
-**chirantar/chirantar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Java** enthusiast, specializing in **Spring Boot** for robust backend solutions.
+- Proficient in architecting with **AWS** cloud services for scalability and performance.
+- Experience with **PostgreSQL** and **Redis** databases for data management.
+- Harnessing the power of **Kubernetes** for efficient container orchestration.
+- Frontend finesse with **React** for captivating user experiences.
+- **Prometheus** and **Grafana** for meticulous monitoring and metrics visualization.
+- Leveraging **Redash** for insightful data visualization.
+- Staying alert with **GoAlerts** for timely notifications.
 
-Here are some ideas to get you started:
+#### 👨‍💼 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Built Notification Platform** from scratch:
+  - 📲 Delivered OTP, Promotional, and Transactional messages.
+  - 📈 Utilized Prometheus and Grafana for in-depth monitoring.
+  - 🔍 Empowered data insights through Redash.
+  - ⏰ Implemented timely alerts with GoAlerts.
+
+- Cloud Team Collaboration at a Gaming Company:
+  - 🎮 Developed APIs for top game charts and user stats.
+  - 📊 Created data pipelines using Python and GCP.
+  - 📣 Integrated Google and Bing ads with ad-automation.
+  - 📡 Leveraged Memcache, Datastore, and more.
+
+- Innovating Affiliate Platform:
+  - 💼 Empowered partners with custom game links.
+  - 💰 Monetized influence on YouTube, blogs, and Discord.
+  - 🤝 Facilitated seamless revenue sharing.
+
+- **Gaming Emulator Project**:
+  - 🎮 Developed and maintained immersive gaming emulator.
+  - 🕹️ Leveraged .NET framework for robust performance.
+
+#### 📞 Let's Connect
+
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/chirantar/).
+- 💬 Let's chat about code, tech trends, and collaboration opportunities.
+- 🚀 Join me in building the future, one commit at a time.
